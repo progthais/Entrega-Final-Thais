@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const DESTINO_API_URL = "http://localhost:8080/destinos";
+const DESTINO_API_URL = 'https://viva-thais.herokuapp.com/destinos'
 
 class DestinoService {
   getAllDestinos() {
