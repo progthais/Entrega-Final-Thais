@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+.writer {
+
+  font-size: 3.25rem;
+  text-align: center;
+  margin-top: 1rem;
+  font-family: 'Lobster', sans-serif;
+  color: var(--color1)
+
+}
+
